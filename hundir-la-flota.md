@@ -8,8 +8,11 @@ El proyecto tiene la siguiente estructura de archivos:
 
 .
 ├── Main
+
 ├── Barcos
+
 ├── Disparos
+
 └── Tablero
 
 ### Archivos y Descripción
